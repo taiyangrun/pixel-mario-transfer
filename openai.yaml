@@ -1,0 +1,7 @@
+interface:
+  display_name: "FC像素马里奥转绘"
+  short_description: "照片转FC红白机8-bit像素马里奥截图质感提示词"
+  default_prompt: "使用 $pixel-mario-transfer 将这张参考照片转成 FC《超级马里奥》8-bit 像素截图质感，并输出可复用提示词。"
+
+policy:
+  allow_implicit_invocation: true
